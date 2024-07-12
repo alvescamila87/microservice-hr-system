@@ -1,8 +1,6 @@
 package br.com.camila.payroll_api.resources;
 
 import br.com.camila.payroll_api.domain.Payroll;
-import br.com.camila.payroll_api.domain.User;
-import br.com.camila.payroll_api.feignClients.UserFeign;
 import br.com.camila.payroll_api.services.PayrollService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
