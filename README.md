@@ -14,7 +14,7 @@ Projeto do curso de microsserviço para aprender a desenvolver um sistema de mic
 * Eureka (load balancing)
 * Banco H2
 * Postman
-* Docker | Docker Hub
+* Docker | Docker Hub | Docker compose
 
 ### Eureka
 Server discovey com Eureka Server permitindo load balancing nas aplicações.
@@ -28,6 +28,9 @@ Teste de requisição com tratamento por exception handler:
 ### Docker hub images
 Push para o Docker Hub das imagens criadas das APIs:
 ![image](https://github.com/user-attachments/assets/11ea1767-8f4b-44de-a4ea-6bdd1594cc9e)
+
+### Docker compose
+![image](https://github.com/user-attachments/assets/9190ea01-a3e9-4745-a0a3-d32bc205bf96)
 
 ## Autor
 * Camila Alves
