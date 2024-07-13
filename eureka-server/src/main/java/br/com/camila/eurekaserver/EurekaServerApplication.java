@@ -1,4 +1,4 @@
-package br.com.camila.eureka_server;
+package br.com.camila.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package br.com.camila.eureka_server;
+package br.com.camila.eurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
